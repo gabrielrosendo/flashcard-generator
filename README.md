@@ -19,7 +19,7 @@ python main.py
 
 4. The script will generate flashcards from the presentation and save them to a CSV file named 'output.csv'.
 
-Example output:
+## Example output:
 ![image](https://github.com/gabrielrosendo/flashcard-generator/assets/71938938/5e6dce02-dd16-4626-896e-85674010787d)
 
 
